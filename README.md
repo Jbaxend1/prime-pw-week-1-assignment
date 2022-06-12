@@ -89,7 +89,7 @@ Here is the pattern. Be sure you are in the project folder!
 2. test your code
 3. in Terminal: `git add .`
 4. in Terminal: `git commit -m "what you changed"`
-5. back to step 1!
+5. back to step 1
 
 
 ## 2) Edit the CSS
