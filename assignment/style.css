@@ -9,3 +9,44 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+body{
+    
+    background-color: rgb(135, 107, 59);
+}
+
+.head{
+    color:antiquewhite;
+    text-align: center;
+}
+
+.foot{
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+    color: coral;
+    text-align: center;
+}
+
+img{
+    margin-left: auto;
+    border-style: double;
+    border-color: chocolate;
+    border-radius: 55px;
+    border-width: 70px;
+}
+
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.listItems{
+    text-align: center;
+    list-style: inside;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+
